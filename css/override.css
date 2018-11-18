@@ -1,0 +1,18 @@
+.reveal section img  {
+    background: none;
+    box-shadow: none;
+}
+
+.reveal pre {
+    box-shadow: none;
+}
+
+.ui_scroll_container.ui_scroll_default_theme {
+    height: 100%;
+    width: 100%;
+}
+
+#wcm_chat, #history_scroll {
+    width: 100%;
+    height: 100%;
+}
